@@ -7,3 +7,5 @@
 
 This is CurlNoise particle sample.  
 The effect use compute shader.
+
+![Particle demo](unity-chan-particle-sample.gif)
